@@ -1,0 +1,14 @@
+# Ignore build and dependency folders
+/bin/
+/vendor/
+/node_modules/
+/.env
+
+# Ignore Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
